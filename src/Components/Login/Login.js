@@ -49,7 +49,7 @@ export default function Login({ setToken }) {
   return (
     <Container component="main" maxWidth="xs">
       <Paper className="paper" elevation={6}>
-        <Avatar className="avatar">
+        <Avatar className="avatar" sx={{ backgroundColor: "crimson" }}>
           <LockOutlinedIcon />
         </Avatar>
         <Typography mt={2} mb={3} component="h1" variant="h5">

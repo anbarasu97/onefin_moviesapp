@@ -95,3 +95,7 @@ code {
   margin-right: 10px;
   cursor: pointer;
 }
+
+.css-wjh20t-MuiPagination-ul{
+  justify-content: center;
+}
